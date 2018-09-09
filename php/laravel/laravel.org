@@ -1,0 +1,2 @@
+* 命令  
+- php artisan key:generate 生成密码 
